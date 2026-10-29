@@ -1,8 +1,8 @@
 {
-  "version": 3,
-  "sha256": "801db9866ee5d213f076fc211f97163c515fa7d98e802a6002913836d5d56554",
-  "signature": "ed25519:dkNZbR+xjvBG5AFho8JnqxvmWuh4fCgtjzOpyL2bqJwXDLuCgF+pEYdZaeMLLh7SG/dqe9CJ+AtSfOCCbrYoCA==",
-  "bytes": 73827,
-  "published_at": "2026-10-29T07:27:37+00:00",
-  "url": "https://raw.githubusercontent.com/dazzlecartsllc/BdResult-config/refs/heads/main/v3.json"
+  "version": 5,
+  "sha256": "54673caf495da3e61eebee424a1ab88eac91e2bb107a7d06ab4b5e2f85e14efa",
+  "signature": "ed25519:FHmdXGqrKjXljy5kC0wrxrTnFFfPWmmTnTMA/+6K0/LnxP5zgqHcMXjUxb1dyNSN3GkURRB3ZG+AB5jjEZkHBw==",
+  "bytes": 73463,
+  "published_at": "2026-10-29T15:56:34+00:00",
+  "url": "https://raw.githubusercontent.com/dazzlecartsllc/BdResult-config/refs/heads/main/v5.json"
 }
