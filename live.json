@@ -1,1 +1,8 @@
-Send me the exact live.json schema and a signed sample, or the script that generates and signs it.
+{
+  "version": 3,
+  "sha256": "801db9866ee5d213f076fc211f97163c515fa7d98e802a6002913836d5d56554",
+  "signature": "ed25519:dkNZbR+xjvBG5AFho8JnqxvmWuh4fCgtjzOpyL2bqJwXDLuCgF+pEYdZaeMLLh7SG/dqe9CJ+AtSfOCCbrYoCA==",
+  "bytes": 73827,
+  "published_at": "2026-10-29T07:27:37+00:00",
+  "url": "https://raw.githubusercontent.com/dazzlecartsllc/BdResult-config/refs/heads/main/v3.json"
+}
